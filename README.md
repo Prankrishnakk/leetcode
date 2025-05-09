@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prankrishnakk/leetcode/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/Prankrishnakk/leetcode/tree/master/0137-single-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prankrishnakk/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1791-richest-customer-wealth](https://github.com/Prankrishnakk/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Prankrishnakk/leetcode/tree/master/0137-single-number-ii) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Prankrishnakk/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
