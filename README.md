@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prankrishnakk/leetcode/tree/master/0137-single-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prankrishnakk/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0948-sort-an-array](https://github.com/Prankrishnakk/leetcode/tree/master/0948-sort-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Prankrishnakk/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/Prankrishnakk/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
