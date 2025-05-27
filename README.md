@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Prankrishnakk/leetcode/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Prankrishnakk/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/Prankrishnakk/leetcode/tree/master/1791-richest-customer-wealth) |
+| [3194-find-words-containing-character](https://github.com/Prankrishnakk/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prankrishnakk/leetcode/tree/master/0020-valid-parentheses) |
+| [3194-find-words-containing-character](https://github.com/Prankrishnakk/leetcode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
