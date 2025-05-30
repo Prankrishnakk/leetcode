@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prankrishnakk/leetcode/tree/master/0020-valid-parentheses) |
+| [0812-rotate-string](https://github.com/Prankrishnakk/leetcode/tree/master/0812-rotate-string) |
 | [3194-find-words-containing-character](https://github.com/Prankrishnakk/leetcode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Prankrishnakk/leetcode/tree/master/0948-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Prankrishnakk/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
