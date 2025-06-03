@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prankrishnakk/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Prankrishnakk/leetcode/tree/master/0027-remove-element) |
 | [0137-single-number-ii](https://github.com/Prankrishnakk/leetcode/tree/master/0137-single-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prankrishnakk/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0948-sort-an-array](https://github.com/Prankrishnakk/leetcode/tree/master/0948-sort-an-array) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Prankrishnakk/leetcode/tree/master/0812-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Prankrishnakk/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
