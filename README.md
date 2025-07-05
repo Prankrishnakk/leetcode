@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Prankrishnakk/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/Prankrishnakk/leetcode/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/Prankrishnakk/leetcode/tree/master/3194-find-words-containing-character) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prankrishnakk/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
