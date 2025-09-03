@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Prankrishnakk/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Prankrishnakk/leetcode/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/Prankrishnakk/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/Prankrishnakk/leetcode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/Prankrishnakk/leetcode/tree/master/2752-sum-multiples) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Prankrishnakk/leetcode/tree/master/0137-single-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/Prankrishnakk/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Matrix
 |  |
 | ------- |
